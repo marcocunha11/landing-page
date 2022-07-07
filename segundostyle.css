@@ -1,0 +1,83 @@
+header {background: rgb(255, 146, 240);
+    height: 50px;
+    border-radius: 7px;
+}
+
+.x{height: 50px;  
+    width: 150px;
+    position: absolute;
+    left: 85%;    
+}
+
+button {
+    display: inline-block;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 40px;
+    border-radius: 30px;
+    position: relative;
+    left: 4%;
+    top: 20%;
+}
+
+#image img {
+    height: 30px;  
+    width: 30px;
+}
+
+nav{background-color: rgba(252, 6, 219, 0.904); 
+    text-align: center;
+    height: auto;
+    width: 400px;
+    border-radius: 30px;
+    font-size: 1.9em;
+    position: absolute;
+    left: 35%;
+    top: 15%;
+}
+
+.azul {position: absolute;
+top: 25%;
+left: 12%;}
+
+section div{text-align: justify;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    left: 28%;
+    top: 25%;
+}
+
+article div{text-align: justify;
+    height: 50px;
+    width: 250px;
+    position: absolute;
+    left: 55%;
+    top: 25%;
+}
+
+.logo{width: 250px;
+height: 70px;}
+
+.pc{height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 80%;
+    top: 30%;
+}
+
+.pc2{height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 80%;
+    top: 65%;
+}
+
+body{background-color: rgb(225, 182, 253);}
+    
+.voltar{position: absolute;
+top: 4%;
+left: 1%;}
+    
